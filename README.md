@@ -1,4 +1,4 @@
-## Focal IoU Loss into Faster-RCNN can be found [here](https://github.com/shsjxzh/Focal-IOU-SSD). 
+## Focal IoU Loss into SSD can be found [here](https://github.com/shsjxzh/Focal-IOU-SSD). 
 
 ## Faster/Mask R-CNN with Focal-IOU losses implemented in - PyTorch-Detectron
 
@@ -135,10 +135,10 @@ python tools/train_net_step.py --dataset coco2017 --cfg configs/focal_loss/e2e_f
 
 Here are the trained models using the configurations in this repository.
 
- - [Faster RCNN + IoU](https://pan.baidu.com/s/1UGMQ90omy2MuNKbiVWbPYQ)
- - [Faster RCNN + Focal IoU](https://pan.baidu.com/s/1x3N7eYnylTO41klUQTlszw)
- - [Faster RCNN + DIoU](https://pan.baidu.com/s/1DtLwpSpbfNbzQ8nlHdt9Xg)
- - [Faster RCNN + Focal DIoU](https://pan.baidu.com/s/1DtLwpSpbfNbzQ8nlHdt9Xg)
- - [Faster RCNN + CIoU](https://pan.baidu.com/s/1gUUByFBeL1DgLvHvogMUfw)
- - [Faster RCNN + Focal CIoU](https://pan.baidu.com/s/1gUUByFBeL1DgLvHvogMUfw)
+ - [Faster RCNN + IoU](https://pan.baidu.com/s/16kBsRBFRrJNiOB3HIx5tQQ) pw: s4o0
+ - [Faster RCNN + Focal IoU](https://pan.baidu.com/s/1UcR7aFlaaiDkmE8YBl47Rg) pw: to6j
+ - [Faster RCNN + DIoU](https://pan.baidu.com/s/1xN_OVIEizK5SW1PBtMWDHw) pw: pbqm
+ - [Faster RCNN + Focal DIoU](https://pan.baidu.com/s/16kMpXT-RTY3usSp3Gy6dxg) pw: lizg
+ - [Faster RCNN + CIoU](https://pan.baidu.com/s/1GiMfJ5NfWV1oTy-f6w5DKQ) pw: 9kmc
+ - [Faster RCNN + Focal CIoU](https://pan.baidu.com/s/1DjPQxfKv5t5Np76OavPB0w) pw: fjqy
 
